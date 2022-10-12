@@ -1,8 +1,7 @@
-// Welcome! The game will load and appear on the right soon
-// Edit the game script below and reload the preview to see your changes
-// You can also press the three arrows and choose "Open in Codeflow IDE" to see a more complete dev environment with all the files
-
 main:
+  // Welcome! The game will load and appear on the right soon
+  // Edit the game script below and reload the preview to see your changes
+  // You can also press the three arrows and choose "Open in Codeflow IDE" to see a more complete dev environment with all the files
   "You open the narrat demo and wonder what narrat is and how it works"
   choice:
     talk helper idle "Would you like some help?"
